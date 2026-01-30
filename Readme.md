@@ -152,12 +152,6 @@ RAGAS is used to measure:
 
 ---
 
-## 📜 License
-
-This project is released under the **MIT License**.
-
----
-
 🙌 Acknowledgements
 
 * LangChain Documentation
