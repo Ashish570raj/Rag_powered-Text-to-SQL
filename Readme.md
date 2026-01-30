@@ -116,6 +116,7 @@ The project integrates **RAGAS** to evaluate the quality of the RAG pipeline usi
 
 ---
 
+
 ## 🔐 Environment Variables
 
 Create a `.env` file in the project root with the following variables:
@@ -157,11 +158,16 @@ This project is released under the **MIT License**.
 
 ---
 
-## 🙌 Acknowledgements
+🙌 Acknowledgements
 
-* LangChain documentation
+* LangChain Documentation
+  https://docs.langchain.com/
+
 * Google Gemini API
-* RAGAS evaluation framework
+  https://ai.google.dev/gemini-api
+
+* RAGAS Evaluation Framework
+  https://github.com/explodinggradients/ragas
 
 ---
 
