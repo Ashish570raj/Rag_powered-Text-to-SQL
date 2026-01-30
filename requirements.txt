@@ -1,0 +1,31 @@
+# Environment
+python-dotenv
+
+# LangChain & LLMs
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+
+
+# Vector Database (RAG)
+faiss-cpu
+chromadb
+
+# Database & SQL
+sqlalchemy
+pymysql
+psycopg2-binary
+
+# Data Handling
+pandas
+numpy
+
+# UI
+streamlit
+
+# Utilities
+tqdm
+
+ragas
