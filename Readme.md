@@ -161,13 +161,13 @@ This project is released under the **MIT License**.
 🙌 Acknowledgements
 
 * LangChain Documentation
-  https://docs.langchain.com/
+  (https://docs.langchain.com/)
 
 * Google Gemini API
-  https://ai.google.dev/gemini-api
+  (https://ai.google.dev/gemini-api)
 
 * RAGAS Evaluation Framework
-  https://github.com/explodinggradients/ragas
+  (https://github.com/explodinggradients/ragas)
 
 ---
 
