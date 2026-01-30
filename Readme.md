@@ -1,7 +1,7 @@
 
 ---
 
-# 🧠 Schema-Aware Text-to-SQL RAG System
+# 🧠 ScRag_powered-Text-to-SQL
 
 An end-to-end **Text-to-SQL system** that allows users to query a relational database using **natural language**, built using a **Retrieval-Augmented Generation (RAG)** architecture and evaluated with **RAGAS**.
 
