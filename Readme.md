@@ -115,12 +115,6 @@ The project integrates **RAGAS** to evaluate the quality of the RAG pipeline usi
 5. Run the notebook or pipeline script
 
 ---
-Great — your README is already **90% excellent**.
-I’ll now **complete it cleanly**, keeping the same tone and quality, without changing what you wrote.
-
-Below is the **final continuation**. You can paste this **directly after your last section**.
-
----
 
 ## 🔐 Environment Variables
 
